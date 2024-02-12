@@ -109,4 +109,4 @@ When creating new test files, the format should be as follows:
 * **\t** represents a *tab* between value and key 
 * **key** is of type *long int*
 
-This project includes 2 test files, named [`mojtest.txt`](Files/mojtest.txt) and [`DZ3_Recnik_10K.txt`](Files/DZ3_Recnik_10K.txt) (main file given by faculty).
+This project includes 2 test files, named [`mytest.txt`](Files/mytest.txt) and [`DZ3_Recnik_10K.txt`](Files/DZ3_Recnik_10K.txt) (main file given by faculty).
